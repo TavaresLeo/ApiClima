@@ -16,6 +16,16 @@ body {
     background-size: cover;
 }
 
+footer {
+    position: absolute;
+    bottom: 0;
+    color: #3754aa;
+    width: 100%;
+    height:100px;
+    text-align: center;
+    line-height: 100px;
+}
+
 .hide {
     display: none;
 }
